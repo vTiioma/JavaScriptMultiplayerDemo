@@ -1,0 +1,23 @@
+{
+  "name": "javascript_multiplayer_demo",
+  "version": "1.0.0",
+  "description": "quick demo to do multiplayer for web with javascript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vTiioma/JavaScriptMultiplayerDemo.git"
+  },
+  "author": "Artem Silantyev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vTiioma/JavaScriptMultiplayerDemo/issues"
+  },
+  "homepage": "https://github.com/vTiioma/JavaScriptMultiplayerDemo#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  }
+}
